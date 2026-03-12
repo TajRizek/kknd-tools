@@ -1,0 +1,87 @@
+{
+  "rotational_count": 7,
+  "simple_count": 0,
+  "total_frames": 10,
+  "frames": [
+    {
+      "i": 0,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 4294967272,
+      "oy": 16,
+      "dir": 0
+    },
+    {
+      "i": 1,
+      "anim": "rotational",
+      "frame": 1,
+      "ox": 4294967273,
+      "oy": 17,
+      "dir": 0
+    },
+    {
+      "i": 2,
+      "anim": "rotational",
+      "frame": 2,
+      "ox": 4294967274,
+      "oy": 18,
+      "dir": 0
+    },
+    {
+      "i": 3,
+      "anim": "rotational",
+      "frame": 3,
+      "ox": 4294967274,
+      "oy": 17,
+      "dir": 0
+    },
+    {
+      "i": 4,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 63,
+      "oy": 46,
+      "dir": 1
+    },
+    {
+      "i": 5,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 63,
+      "oy": 46,
+      "dir": 2
+    },
+    {
+      "i": 6,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 51,
+      "oy": 2,
+      "dir": 3
+    },
+    {
+      "i": 7,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 51,
+      "oy": 14,
+      "dir": 4
+    },
+    {
+      "i": 8,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 51,
+      "oy": 27,
+      "dir": 5
+    },
+    {
+      "i": 9,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 51,
+      "oy": 46,
+      "dir": 6
+    }
+  ]
+}

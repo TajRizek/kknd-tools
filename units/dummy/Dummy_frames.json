@@ -1,0 +1,15 @@
+{
+  "rotational_count": 0,
+  "simple_count": 1,
+  "total_frames": 1,
+  "frames": [
+    {
+      "i": 0,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 8,
+      "oy": 8,
+      "idx": 0
+    }
+  ]
+}

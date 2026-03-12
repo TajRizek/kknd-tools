@@ -1,0 +1,103 @@
+{
+  "rotational_count": 0,
+  "simple_count": 6,
+  "total_frames": 12,
+  "frames": [
+    {
+      "i": 0,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 188,
+      "oy": 93,
+      "idx": 0
+    },
+    {
+      "i": 1,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 4294967295,
+      "oy": 93,
+      "idx": 1
+    },
+    {
+      "i": 2,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 3,
+      "anim": "simple",
+      "frame": 1,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 4,
+      "anim": "simple",
+      "frame": 2,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 5,
+      "anim": "simple",
+      "frame": 3,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 6,
+      "anim": "simple",
+      "frame": 4,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 7,
+      "anim": "simple",
+      "frame": 5,
+      "ox": 94,
+      "oy": 43,
+      "idx": 2
+    },
+    {
+      "i": 8,
+      "anim": "simple",
+      "frame": 6,
+      "ox": 94,
+      "oy": 42,
+      "idx": 2
+    },
+    {
+      "i": 9,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 145,
+      "oy": 2,
+      "idx": 3
+    },
+    {
+      "i": 10,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 86,
+      "oy": 2,
+      "idx": 4
+    },
+    {
+      "i": 11,
+      "anim": "simple",
+      "frame": 0,
+      "ox": 198,
+      "oy": 162,
+      "idx": 5
+    }
+  ]
+}

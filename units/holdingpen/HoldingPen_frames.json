@@ -1,0 +1,23 @@
+{
+  "rotational_count": 2,
+  "simple_count": 0,
+  "total_frames": 2,
+  "frames": [
+    {
+      "i": 0,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 80,
+      "oy": 56,
+      "dir": 0
+    },
+    {
+      "i": 1,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 80,
+      "oy": 56,
+      "dir": 1
+    }
+  ]
+}

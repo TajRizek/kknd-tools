@@ -1,0 +1,143 @@
+{
+  "rotational_count": 5,
+  "simple_count": 0,
+  "total_frames": 17,
+  "frames": [
+    {
+      "i": 0,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 1,
+      "anim": "rotational",
+      "frame": 1,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 2,
+      "anim": "rotational",
+      "frame": 2,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 3,
+      "anim": "rotational",
+      "frame": 3,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 4,
+      "anim": "rotational",
+      "frame": 4,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 5,
+      "anim": "rotational",
+      "frame": 5,
+      "ox": 11,
+      "oy": 36,
+      "dir": 0
+    },
+    {
+      "i": 6,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 52,
+      "oy": 57,
+      "dir": 1
+    },
+    {
+      "i": 7,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 52,
+      "oy": 59,
+      "dir": 2
+    },
+    {
+      "i": 8,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 39,
+      "oy": 51,
+      "dir": 3
+    },
+    {
+      "i": 9,
+      "anim": "rotational",
+      "frame": 1,
+      "ox": 39,
+      "oy": 51,
+      "dir": 3
+    },
+    {
+      "i": 10,
+      "anim": "rotational",
+      "frame": 2,
+      "ox": 34,
+      "oy": 41,
+      "dir": 3
+    },
+    {
+      "i": 11,
+      "anim": "rotational",
+      "frame": 3,
+      "ox": 34,
+      "oy": 41,
+      "dir": 3
+    },
+    {
+      "i": 12,
+      "anim": "rotational",
+      "frame": 4,
+      "ox": 40,
+      "oy": 47,
+      "dir": 3
+    },
+    {
+      "i": 13,
+      "anim": "rotational",
+      "frame": 5,
+      "ox": 40,
+      "oy": 47,
+      "dir": 3
+    },
+    {
+      "i": 14,
+      "anim": "rotational",
+      "frame": 6,
+      "ox": 52,
+      "oy": 59,
+      "dir": 3
+    },
+    {
+      "i": 15,
+      "anim": "rotational",
+      "frame": 7,
+      "ox": 52,
+      "oy": 59,
+      "dir": 3
+    },
+    {
+      "i": 16,
+      "anim": "rotational",
+      "frame": 0,
+      "ox": 52,
+      "oy": 59,
+      "dir": 4
+    }
+  ]
+}
