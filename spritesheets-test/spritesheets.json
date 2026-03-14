@@ -1,0 +1,10 @@
+[
+  {
+    "id": "swat_attack_east",
+    "label": "SWAT Attack East",
+    "png": "SWAT_attack_east.png",
+    "frameWidth": 16,
+    "frameHeight": 13,
+    "frameCount": 5
+  }
+]
